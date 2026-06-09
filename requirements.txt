@@ -1,0 +1,1 @@
+requirements = python3,kivy==2.1.0,pyjnius,setuptools,plyer

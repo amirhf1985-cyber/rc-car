@@ -1,0 +1,8 @@
+{"sensitivity": 1.0,
+"accelerometer_mode": false, "steering_sensitivity": 1.0, "battery_warning_level": 20, "last_connected_device": "", "connection_type": "ble",
+"vibration_enabled": true,
+"ui_scale": 1.0,
+"theme": "light",
+"auto_reconnect": true,
+"keep_screen_on": true,
+"wake_lock_enabled": true}
